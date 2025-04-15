@@ -5,21 +5,21 @@ import { ChevronLeft, ChevronRight, Quote } from 'lucide-react';
 const testimonials = [
   {
     id: 1,
-    name: "Sarah Johnson",
+    name: "Elizabeth Mwende",
     role: "Member since 2020",
     quote: "Zoezi Fit has completely transformed my fitness journey. The trainers are knowledgeable and supportive, and the community feels like family. I've achieved results I never thought possible!",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
   },
   {
     id: 2,
-    name: "David Mwangi",
+    name: "Demetrius Mwangi",
     role: "Member since 2021",
     quote: "The personal training at Zoezi Fit is next level. My trainer understood my goals and created a customized plan that's helped me lose 15kg in just 6 months. The facility is clean and the equipment is top-notch.",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
   },
   {
     id: 3,
-    name: "Amina Kimathi",
+    name: "Amina Nyaboke",
     role: "Member since 2019",
     quote: "I've been to many gyms over the years, but none compare to Zoezi Fit. The class variety keeps my workouts interesting, and the trainers really care about proper form and technique. I feel stronger and more confident.",
     image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=776&q=80"

@@ -8,21 +8,21 @@ const classes = [
     name: "HIIT Training",
     description: "High-intensity interval training that alternates between intense bursts of activity and fixed periods of less-intense activity.",
     image: "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2560&q=80",
-    trainer: "John Doe"
+    trainer: "Musa Juma"
   },
   {
     id: 2,
     name: "Yoga Flow",
     description: "Connect breath to movement in this dynamic yoga class designed to increase flexibility, strength, and mindfulness.",
     image: "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-    trainer: "Jane Smith"
+    trainer: "Adhiambo Slyvia"
   },
   {
     id: 3,
     name: "Strength Training",
     description: "Build muscle, increase strength, and improve body composition with our comprehensive strength training program.",
     image: "https://images.unsplash.com/photo-1533560777802-046814bc297c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-    trainer: "Michael Brown"
+    trainer: "Hamisi Benard"
   }
 ];
 
